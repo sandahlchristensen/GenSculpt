@@ -6,8 +6,8 @@ The project and its progress is detailed on my [tumblr](https://keepturningwip.t
 
 ## Acknowledgements  
 Thanks to the following for their help, which was instrumental in the project. 
-* Kalle
-* Johan
+* Kalle - 3D modelling and Grasshopper expertise 
+* Johan - Composition and friendship
 * Dawn 
 * Ted
 * MSWTA - Mid Staff Woodturners Association
