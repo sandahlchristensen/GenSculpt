@@ -3,3 +3,11 @@ This Repositories include a Grasshopper script written for Rhino that allow for 
 
 ## _Keep turning is a work in progress_
 The project and its progress is detailed on my [tumblr](https://keepturningwip.tumblr.com/)
+
+## Acknowledgements  
+Thanks to the following for their help, which was instrumental in the project. 
+* Kalle
+* Johan
+* Dawn 
+* Ted
+* MSWTA - Mid Staff Woodturners Association
